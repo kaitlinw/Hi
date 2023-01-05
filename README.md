@@ -11,7 +11,7 @@ Any current projects I am working on are private because I have an entrepreneuri
 
 I also turned off my contribution chart data as its not an indicative measure of how good an engineer is. I have seen horrendous habits on other engineers's githubs that make it look like they code absurd amounts of code, when they don't, they just commit terribly - whereas I value beautiful organised commits.
 
-So, the best way to find out what I can do is to test me ;-) 
+So, the best way to find out what I can do is to send me a code assignment ;-) 
 
 Check out my medium page for the occasional article I write discussing the software engineer career and helping brand new engineers get off to a good start!
 
